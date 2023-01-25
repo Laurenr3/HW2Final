@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Point1 HW2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Bike Parking" }, "geometry": { "type": "Point", "coordinates": [ -79.046554408058995, 35.904864382477086 ] } }
+]
+}
